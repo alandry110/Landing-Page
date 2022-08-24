@@ -22,7 +22,7 @@ This was the first mini-project assigned to me. The purpose was build a landing 
 ## Final submission links:
 
 * GitHub Repository - https://github.com/alandry110/Landing-Page
-* GitHub Deployed Page - 
+* GitHub Deployed Page - https://alandry110.github.io/landing-page/
 
 ## This is what my final page looks like:
 
