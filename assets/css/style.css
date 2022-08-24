@@ -1,0 +1,65 @@
+.navBar li, main, .contactHeader, .contactForm, .sendBtn, footer {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body main {
+    margin-top: 120px;
+}
+
+footer, .navBar {
+    background-color: lightblue;
+    padding: 5px;
+}
+
+.navBar {
+    overflow: hidden;
+    top: 0;
+    width: 100%;
+    position: fixed;
+    
+}
+
+.navBar li {
+    display: inline;
+    float: right;
+    margin: 10px;
+    list-style: none;
+   
+}
+
+.navBar li a {
+    text-decoration: none;
+    color: black;
+    font-size: x-large;
+    margin-right: 20px;
+}
+
+.portfolioImg {
+    width: 400px;
+}
+
+.contactMeContainer {
+    background-color: palevioletred;
+    padding: 20px 10px 40px 10px;
+}
+
+.contactForm {
+    margin: 0 auto;
+    width: 500px;
+    padding: 5px;
+    border: 5px solid white;
+    border-radius: 20px;
+}
+
+.contactForm input {
+    margin: 5px;
+    padding-right: 50px;
+    padding-left: 50px;
+}
+
+.sendBtn {
+    padding: 10px 30px 10px 30px;
+}
+
+
