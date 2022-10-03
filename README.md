@@ -1,11 +1,17 @@
 # Module 01 Mini-Project: Landing Page
 
-## About this directory
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-This was the first mini-project assigned to me. The purpose was build a landing page using HTML and CSS
+## Description
+This was the first mini-project assigned to me. The purpose was build a landing page using HTML and CSS.
+
+## Table of Contents 
+- [Acceptance Criteria](#acceptance-criteria)
+- [Technologies Used](#technologies-used)
+- [Final Application](#final-application)
+- [License](#license)
 
 ## Acceptance Criteria
-
 * Semantic HTML elements 
 * Universal elements and class selectors
 * Three colors in the design
@@ -19,11 +25,35 @@ This was the first mini-project assigned to me. The purpose was build a landing 
 * Image includes a descriptive `alt` attribute.
 * Page is deployed to GitHub Pages.
 
-## Final submission links:
+## Technologies Used
+* ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+* ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-* GitHub Repository - https://github.com/alandry110/Landing-Page
-* GitHub Deployed Page - https://alandry110.github.io/landing-page/
-
-## This is what my final page looks like:
-
+## Final Application
+[View Live Link](https://ashclandry.github.io/landing-page/)
 ![Screenshot of Ashlynn's starter portfolio page](./assets/images/screenshot.html.png)
+
+## License 
+MIT License
+
+Copyright © 2022, Ashlynn Landry
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+
